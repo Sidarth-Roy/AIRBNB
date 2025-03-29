@@ -37,6 +37,14 @@ dbt debug  # Verify DBT connection to Snowflake
 ```
 
 ---
-
+code .
 This version keeps it clean, precise, and professional. Let me know if you'd like any other refinements! 🚀
+
+
+
+explain dbt_project.yml file
+![image](https://github.com/user-attachments/assets/7658b4e6-4217-4e99-91fe-e32dab4343a8)
+![image](https://github.com/user-attachments/assets/2f33992b-630f-456f-9465-b6474080e6a4)
+![image](https://github.com/user-attachments/assets/262a93e3-6e04-4087-9703-02c16b98f786)
+
 
